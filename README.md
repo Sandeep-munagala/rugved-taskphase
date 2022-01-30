@@ -6,3 +6,7 @@ status of week 2 tasks:-
 1. got familiarised with python and completed upto loops
 2. learned the linux commands
 3. working on shell scripting
+
+
+
+
